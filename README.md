@@ -1,5 +1,7 @@
 <p align="center"><img src="http://24.media.tumblr.com/efdae7e7a5f080491230ddf336a205cd/tumblr_mqsej6VFWJ1rjcfxro1_500.gif"></p>
 
+---
+
 ### A Little About Me
 - 👦 I'm a data science + machine learning devotee
 - 🔭 I’m currently working on a recommender engine in Scala
