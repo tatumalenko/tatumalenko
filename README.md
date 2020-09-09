@@ -8,13 +8,12 @@
 - 💬 Ask me about word2vec <3
 - 📫 How to reach me: tatum.alenko@gmail.com
 - 😄 Pronouns: He/him
--->
 
 ### More pinned repos
 <a href="https://github.com/tatumalenko/HackerNewsDataAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=HackerNewsDataAnalysis"></a>
 <a href="https://github.com/tatumalenko/MontrealCrimeAnalytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=MontrealCrimeAnalytics"></a>
 <br>
-<a href="https://github.com/tatumalenko/sms-pigeon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=sms-pigeon"></a>
+<a href="https://github.com/tatumalenko/Moon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=Moon"></a>
 <a href="https://github.com/tatumalenko/ts-bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=ts-bots"></a>
 <br>
 <a href="https://github.com/tatumalenko/cdvq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tatumalenko&repo=cdvq"></a>
