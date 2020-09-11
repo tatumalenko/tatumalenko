@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/him
 
 <p align="center">
-  <img style="float: left;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatumalenko&layout=compact" />
+  <img style="float: left;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatumalenko&layout=compact&hide=html,MATLAB" />
   <img width="450px" src="https://wakatime.com/share/@tatumalenko/c86c251e-fdf8-431d-b10f-e4d66a26e47e.png" />
 </p>
 
