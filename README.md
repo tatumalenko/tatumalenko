@@ -3,18 +3,10 @@
 ---
 
 ### A Little About Me
-- 👦 I'm a data science + machine learning devotee
-- 🔭 I’m currently working on a recommender engine in Scala
-- 🌱 I’m currently learning various NLP based algorithms
-- 👯 I’m looking to collaborate on various types of projects
-- 💬 Ask me about word2vec <3
+- 👦 I'm a software engineer by day, avid Netflix watcher by night
+- 🔭 I’m currently working on a recommender engine
 - 📫 How to reach me: tatum.alenko@gmail.com
 - 😄 Pronouns: He/him
-
-<p align="center">
-  <img style="float: left;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatumalenko&layout=compact&hide=html,MATLAB" />
-  <img width="450px" src="https://wakatime.com/share/@tatumalenko/c86c251e-fdf8-431d-b10f-e4d66a26e47e.png" />
-</p>
 
 ### Pinned Repos
 #### Machine Learning
